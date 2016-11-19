@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FFC889A1-7941-4531-B4A5-1B4F62FC2BEB}</ProjectGuid>
+    <ProjectGuid>{2956E69B-413C-4215-A48B-3C0D2D6BECEE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Class6</RootNamespace>
-    <AssemblyName>Class6</AssemblyName>
+    <RootNamespace>Class6_1</RootNamespace>
+    <AssemblyName>Class6_1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="fanxing.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
