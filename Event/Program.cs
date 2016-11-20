@@ -32,6 +32,8 @@ namespace Event
                 {
                     if (OverspeedEvent != null)
                         OverspeedEvent(V);
+                    //可以直接使用下面代替上面if
+                   // OverspeedEvent?.Invoke(V);
                 }
             }
         }
